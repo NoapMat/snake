@@ -1,2 +1,2 @@
 # snake
-Snake game written in C++ without replying to conio library
+A very simple snake game (in console) written in C++ without relying to conio library
